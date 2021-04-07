@@ -25,4 +25,4 @@
 
 <hr>
 <br>
-<h4 align="center"><a href=https://github.com/Peginium?tab=repositories" title="Show Repositories">🔎 Check my Repositories 🔍</a></h4>
+<h4 align="center"><a href=https://github.com/peginium?tab=repositories title="Show Repositories">🔎 Check my Repositories 🔍</a></h4>

@@ -1,7 +1,4 @@
 <h3 align="center">Hello there, I'm Peginium 👋</h3>
-<h5 align="center">
-  <code><a href="https://www.instagram.com/merdcimkee/" title="Instagram Profile"><img width="22" src="/images/instagram.svg"> Instagram</a></code>
-</h5>
 <br>
 <p align="center">
   Hi, I'm Peginium, from Turkey

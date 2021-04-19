@@ -6,7 +6,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning JavaScript
+  📚 I’m currently learning C#
   <br>
   📫 How to reach me: <a href="mailto: arhanimo123@gmail.com">arhanimo123@gmail.com</a>
 </p>

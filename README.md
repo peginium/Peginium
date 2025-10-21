@@ -6,7 +6,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently studying Electronics and Communication Engineering
+  📚 I’m currently studying Electronics & Communication Engineering
   <br>
   📫 How to reach me: <a href="mailto: arhanimo123@gmail.com">arhanimo123@gmail.com</a>
 </p>

@@ -1,7 +1,7 @@
 <h3 align="center">Hello there, I'm Peginium 👋</h3>
 <br>
 <p align="center">
-  Hi, I'm Peginium, from Turkey
+  Hi, I'm Arhan, from Turkey
   <br>
   <br>
   💻 I love writing code and learn anythings about it

@@ -13,15 +13,6 @@
 
 <hr>
 
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Peginium&show_icons=true&theme=dracula">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peginium&hide=c%23,powershell,java&title_color=fe6e95&text_color=99d1ce&icon_color=2bbc8a&bg_color=282a36&langs_count=8&layout=compact" />
-  </a>
-</p>
-
 <hr>
 <br>
 <h4 align="center"><a href=https://github.com/peginium?tab=repositories title="Show Repositories">🔎 Check my Repositories 🔍</a></h4>
